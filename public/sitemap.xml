@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://fervaldezjr.github.io/fervaldezjrblog/about/</loc>
     <lastmod>2024-10-22T22:38:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://fervaldezjr.github.io/fervaldezjrblog/</loc>
     <lastmod>2024-10-22T22:38:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://fervaldezjr.github.io/fervaldezjrblog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://fervaldezjr.github.io/fervaldezjrblog/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://fervaldezjr.github.io/fervaldezjrblog/tags/</loc>
   </url>
 </urlset>
