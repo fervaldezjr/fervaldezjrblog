@@ -17,8 +17,6 @@ tags: null
 series: null
 ---
 
-![Fernando Valdez a sus 8 años con una computadora de escritorio](../static/about-me.jpeg)
-
 Soy Fernando, vivo en Barcelona 🌊, actualmente formo parte del equipo de ingenieria de [ioBuilders](https://io.builders) como Product Engineer.
 
 Me apasiona el aprendizaje continuo, enfrentar nuevos desafíos y compartir el conocimiento que adquiero a lo largo de mi carrera. Con más de 3 años de experiencia profesional, he diseñado y construido software tanto en Frontend como en Backend.
