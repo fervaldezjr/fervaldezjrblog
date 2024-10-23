@@ -1,5 +1,5 @@
 ---
-title: 👋🏽 ¡Hola, me alegra que estes por acá!
+title: ¡Hola, me alegra que estes por acá!
 slug: about
 description: Fernando Valdez es un Ingeniero de Software argentino ubicado en Barcelona.
 date: 2024-10-22T22:38:13.801Z
