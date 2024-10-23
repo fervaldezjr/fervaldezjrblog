@@ -1,4 +1,4 @@
-baseURL = 'https://fervaldezjr.github.io/fervaldezjrblog/'
+baseURL = 'https://fervaldezjr.github.io/blog/'
 languageCode = 'es-es'
 title = "🧑🏽‍💻 fervaldezjr's blog"
 theme = 'slick'

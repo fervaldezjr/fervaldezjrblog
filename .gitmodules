@@ -1,3 +1,7 @@
 [submodule "themes/slick"]
    path = themes/slick
    url = https://github.com/spookey/slick.git
+[submodule "public"]
+	path = public
+	url = https://github.com/fervaldezjr/blog.git
+	branch = main
