@@ -17,7 +17,7 @@ tags: null
 series: null
 ---
 
-![Fernando Valdez a sus 8 años con una computadora de escritorio](../assets/about-me.jpeg)
+![Fernando Valdez a sus 8 años con una computadora de escritorio](../static/about-me.jpeg)
 
 Soy Fernando, vivo en Barcelona 🌊, actualmente formo parte del equipo de ingenieria de [ioBuilders](https://io.builders) como Product Engineer.
 
