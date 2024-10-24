@@ -28,5 +28,3 @@ En cuanto a infraestructura, he trabajado con Amazon AWS, ArgoCD, Grafana, Docke
 He participado en el desarrollo de múltiples servicios basados en arquitectura hexagonal y DDD, desde su concepción hasta su despliegue en producción, supervisando su correcto funcionamiento y actuando rápidamente en caso de ser necesario.
 
 Gracias por tomarte el tiempo para leer, ¡espero que conectemos pronto!
-
-[Enviame un correo 📮](mailto:fervaldezjr11@gmail.com)

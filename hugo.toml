@@ -1,7 +1,10 @@
 baseURL = 'https://fervaldezjr.github.io/blog/'
 languageCode = 'es-es'
 title = "🧑🏽‍💻 fervaldezjr's blog"
-theme = 'slick'
+theme = "hugo-theme-console"
+
+[taxonomies]
+  tag = "tags"
 
 [menu]
 
@@ -44,3 +47,23 @@ theme = 'slick'
         title = "Fernando Valdez Linkedin page"
         url = "https://www.linkedin.com/in/fervaldezjr/?locale=es_ES"
         weight = 2
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+    [[params.navlinks]]
+    name = "posts/"
+    url = "posts/"
+
+    [[params.navlinks]]
+    name = "tags/"
+    url = "tags/"
+
+    [[params.navlinks]]
+    name = "about/"
+    url = "about/"
