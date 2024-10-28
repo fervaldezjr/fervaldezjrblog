@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🧑🏽‍💻 fervaldezjr&#39;s blog</title>
+    <link>http://localhost:1313/fervaldezjrblog/</link>
+    <description>Recent content on 🧑🏽‍💻 fervaldezjr&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 25 Oct 2024 13:52:40 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/fervaldezjrblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jose</title>
+      <link>http://localhost:1313/fervaldezjrblog/posts/jose/</link>
+      <pubDate>Fri, 25 Oct 2024 13:52:40 +0200</pubDate>
+      <guid>http://localhost:1313/fervaldezjrblog/posts/jose/</guid>
+      <description>&lt;p&gt;Buenas tardes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Utilizando RabbitMQ para la comunicación en sistemas distribuidos</title>
+      <link>http://localhost:1313/fervaldezjrblog/posts/my-first-post/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fervaldezjrblog/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Enseñaré uno de los posibles flujos de trabajo básico utilizando &lt;a href=&#34;https://www.rabbitmq.com/&#34;&gt;RabbitMQ&lt;/a&gt; como &lt;a href=&#34;https://aws.amazon.com/es/message-queue/#:~:text=Una%20cola%20de%20mensajes%20es,sola%2C%20por%20un%20solo%20consumidor.&#34;&gt;cola de mensajería&lt;/a&gt; para la comunicación entre múltiples microservicios y como ejemplo usaré un sistema de comercio electrónico en el que tenemos un microservicio encargado de &lt;strong&gt;gestionar pedidos&lt;/strong&gt; y otro encargado de &lt;strong&gt;notificar a los usuarios&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>¡Hola, me alegra que estes por acá!</title>
+      <link>http://localhost:1313/fervaldezjrblog/about/</link>
+      <pubDate>Tue, 22 Oct 2024 22:38:13 +0000</pubDate>
+      <guid>http://localhost:1313/fervaldezjrblog/about/</guid>
+      <description>&lt;p&gt;Soy Fernando, vivo en Barcelona 🌊, actualmente formo parte del equipo de ingenieria de &lt;a href=&#34;https://io.builders&#34;&gt;ioBuilders&lt;/a&gt; como Product Engineer.&lt;/p&gt;&#xA;&lt;p&gt;Me apasiona el aprendizaje continuo, enfrentar nuevos desafíos y compartir el conocimiento que adquiero a lo largo de mi carrera. Con más de 3 años de experiencia profesional, he diseñado y construido software tanto en Frontend como en Backend.&lt;/p&gt;&#xA;&lt;p&gt;En el lado del Backend, manejo tecnologías como Java, Groovy y Node.js, mientras que en Frontend trabajo con JavaScript, TypeScript, React y React Native. Además, tengo amplia experiencia escribiendo pruebas automatizadas y unitarias utilizando herramientas como Spock, Jest, Testing Library y K6 para pruebas de rendimiento.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
