@@ -1,10 +1,7 @@
-[submodule "themes/slick"]
-   path = themes/slick
-   url = https://github.com/fervaldezjr/slick
 [submodule "public"]
 	path = public
 	url = https://github.com/fervaldezjr/blog.git
 	branch = main
 [submodule "themes/hugo-theme-console"]
 	path = themes/hugo-theme-console
-	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+	url = https://github.com/fervaldezjr/hugo-theme-console
