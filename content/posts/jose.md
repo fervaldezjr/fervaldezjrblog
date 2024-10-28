@@ -8,4 +8,4 @@ Buenas tardes
 
 <!--more-->
 
-![about-me](https://github.com/fervaldezjr/fervaldezjrblog/blob/main/static/about-me.jpeg?raw=true)
+![about-me](https://github.com/fervaldezjr/fervaldezjrblog/blob/main/static/images/about-me.jpeg?raw=true)
