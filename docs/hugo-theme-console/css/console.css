@@ -193,6 +193,11 @@ figure {
     margin-bottom: 10px;
 }
 
+img {
+    max-width: 500px !important;
+    height: auto;
+}
+
 .posts-list {
     position: relative;
     padding-left: 130px;

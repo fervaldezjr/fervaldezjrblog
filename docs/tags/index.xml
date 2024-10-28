@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🧑🏽‍💻 fervaldezjr&#39;s blog</title>
-    <link>http://localhost:1313/fervaldezjrblog/tags/</link>
+    <link>https://fervaldezjr.github.io/fervaldezjrblog/tags/</link>
     <description>Recent content on 🧑🏽‍💻 fervaldezjr&#39;s blog</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fervaldezjrblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fervaldezjr.github.io/fervaldezjrblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event-Driven-Architecture</title>
-      <link>http://localhost:1313/fervaldezjrblog/tags/event-driven-architecture/</link>
+      <link>https://fervaldezjr.github.io/fervaldezjrblog/tags/event-driven-architecture/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fervaldezjrblog/tags/event-driven-architecture/</guid>
+      <guid>https://fervaldezjr.github.io/fervaldezjrblog/tags/event-driven-architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Rabbitmq</title>
-      <link>http://localhost:1313/fervaldezjrblog/tags/rabbitmq/</link>
+      <link>https://fervaldezjr.github.io/fervaldezjrblog/tags/rabbitmq/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fervaldezjrblog/tags/rabbitmq/</guid>
+      <guid>https://fervaldezjr.github.io/fervaldezjrblog/tags/rabbitmq/</guid>
       <description></description>
     </item>
   </channel>

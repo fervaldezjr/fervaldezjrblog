@@ -5,3 +5,7 @@ title = 'Jose'
 +++
 
 Buenas tardes
+
+<!--more-->
+
+![about-me](https://github.com/fervaldezjr/fervaldezjrblog/blob/main/static/about-me.jpeg?raw=true)

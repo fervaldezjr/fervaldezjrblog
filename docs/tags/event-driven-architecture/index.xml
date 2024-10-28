@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event-Driven-Architecture on 🧑🏽‍💻 fervaldezjr&#39;s blog</title>
-    <link>http://localhost:1313/fervaldezjrblog/tags/event-driven-architecture/</link>
+    <link>https://fervaldezjr.github.io/fervaldezjrblog/tags/event-driven-architecture/</link>
     <description>Recent content in Event-Driven-Architecture on 🧑🏽‍💻 fervaldezjr&#39;s blog</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fervaldezjrblog/tags/event-driven-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fervaldezjr.github.io/fervaldezjrblog/tags/event-driven-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Utilizando RabbitMQ para la comunicación en sistemas distribuidos</title>
-      <link>http://localhost:1313/fervaldezjrblog/posts/my-first-post/</link>
+      <link>https://fervaldezjr.github.io/fervaldezjrblog/posts/my-first-post/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fervaldezjrblog/posts/my-first-post/</guid>
+      <guid>https://fervaldezjr.github.io/fervaldezjrblog/posts/my-first-post/</guid>
       <description>&lt;p&gt;Enseñaré uno de los posibles flujos de trabajo básico utilizando &lt;a href=&#34;https://www.rabbitmq.com/&#34;&gt;RabbitMQ&lt;/a&gt; como &lt;a href=&#34;https://aws.amazon.com/es/message-queue/#:~:text=Una%20cola%20de%20mensajes%20es,sola%2C%20por%20un%20solo%20consumidor.&#34;&gt;cola de mensajería&lt;/a&gt; para la comunicación entre múltiples microservicios y como ejemplo usaré un sistema de comercio electrónico en el que tenemos un microservicio encargado de &lt;strong&gt;gestionar pedidos&lt;/strong&gt; y otro encargado de &lt;strong&gt;notificar a los usuarios&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
