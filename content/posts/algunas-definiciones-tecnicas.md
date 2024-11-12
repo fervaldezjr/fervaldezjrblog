@@ -11,6 +11,8 @@ Como el aprendizaje es continuo espero que este artículo siga creciendo, tambi�
 
 <!--more-->
 
+[Versión 0.0.1]
+
 ## Tabla de Contenido
 
 1. [Gradle Wrapper](#gradle-wrapper)
