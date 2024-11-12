@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es-es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>🧑🏽‍💻 fervaldezjr&#39;s blog/fervaldezjrblog/posts/algunas-definiciones-tecnicas/</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <link rel="stylesheet" href="https://fervaldezjr.github.io/fervaldezjrblog/hugo-theme-console/css/terminal-0.7.4.min.css">
+    <link rel="stylesheet" href="https://fervaldezjr.github.io/fervaldezjrblog/hugo-theme-console/css/animate-4.1.1.min.css">
+    <link rel="stylesheet" href="https://fervaldezjr.github.io/fervaldezjrblog/hugo-theme-console/css/console.css">
+    
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+       <meta property="og:title" content="Definiciones Técnicas del día a día" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://fervaldezjr.github.io/fervaldezjrblog/posts/algunas-definiciones-tecnicas/" /><meta property="article:published_time" content="2024-11-12T18:15:00+01:00" />
+
+
+
+<meta name="twitter:title" content="Definiciones Técnicas del día a día"/>
+<meta name="twitter:description" content="Algunas notas sueltas que fuí encontrando en viejas libretas sobre pequeñas dudas, conceptos, definiciones y comentarios que me ayudaron mucho en mi camino como desarrollador.
+Como el aprendizaje es continuo espero que este artículo siga creciendo, también es bienvenido cualquier comentario para complementar dichas notas o crear un documento especifico."/>
+
+</head>
+<body class="terminal">
+    <div class="container">
+        <div class="terminal-nav">
+          <header class="terminal-logo">
+            <div class="logo terminal-prompt">
+              
+              
+              <a href="https://fervaldezjr.github.io/fervaldezjrblog/" class="no-style site-name">🧑🏽‍💻 fervaldezjr&#39;s blog</a>:~# 
+              <a href='https://fervaldezjr.github.io/fervaldezjrblog/posts'>posts</a>/<a href='https://fervaldezjr.github.io/fervaldezjrblog/posts/algunas-definiciones-tecnicas'>algunas-definiciones-tecnicas</a>/</div></header>
+          <nav class="terminal-menu">
+            <ul vocab="https://schema.org/" typeof="BreadcrumbList">
+                
+                <li><a href="https://fervaldezjr.github.io/fervaldezjrblog/posts/" typeof="ListItem">posts/</a></li>
+                
+                <li><a href="https://fervaldezjr.github.io/fervaldezjrblog/tags/" typeof="ListItem">tags/</a></li>
+                
+                <li><a href="https://fervaldezjr.github.io/fervaldezjrblog/about/" typeof="ListItem">about/</a></li>
+                
+            </ul>
+          </nav>
+        </div>
+    </div>
+
+    <div class="container animated zoomIn fast" >
+        
+<h1>Definiciones Técnicas del día a día</h1>
+
+<div>
+    
+    
+    <span><a href="/tags/career">#career</a></span>
+    
+    <span><a href="/tags/definitions">#definitions</a></span>
+    
+    
+</div>
+
+Nov. 12, 2024
+
+
+<br /><br />
+<p>Algunas notas sueltas que fuí encontrando en viejas libretas sobre pequeñas dudas, conceptos, definiciones y comentarios que me ayudaron mucho en mi camino como desarrollador.</p>
+<p>Como el aprendizaje es continuo espero que este artículo siga creciendo, también es bienvenido cualquier comentario para complementar dichas notas o crear un documento especifico.</p>
+<h2 id="tabla-de-contenido">Tabla de Contenido</h2>
+<ol>
+<li><a href="#gradle-wrapper">Gradle Wrapper</a></li>
+<li><a href="#architecture-decision-records">Architecture Decision Records</a></li>
+<li><a href="#liquibase">Liquibase</a></li>
+<li><a href="#atajos-utiles-de-bash">Atajos Útiles de Bash</a></li>
+</ol>
+<hr>
+<h1 id="gradle-wrapper">Gradle Wrapper</h1>
+<p><a href="https://docs.gradle.org/current/userguide/gradle_wrapper.html">Gradlew Wrapper</a> se usa para ejecutar <a href="https://docs.gradle.org/current/userguide/userguide.html">Gradle</a> sin tener que instalarlo en tu computadora.
+De esta manera todos los integrantes del equipo no van a tener problemas de compatibilidad ya que tendrán la misma versión porque esta <strong>wrappeada</strong> en el proyecto.</p>
+<p><em>Referencias y artículos relacionados</em></p>
+<ul>
+<li><a href="https://es.wikipedia.org/wiki/Gradle">Gradle Wikipedia</a></li>
+</ul>
+<hr>
+<h1 id="architecture-decision-records">Architecture Decision Records</h1>
+<p>También conocido como <strong>ADR</strong> es un registro de decisiones arquitectonicas junto con su contexto y consecuencias.</p>
+<p><em>Ejemplo:</em></p>
+<h2 id="adr-001---elección-del-framework-frontend-react-vs-vuejs">ADR 001 - Elección del framework frontend: React vs Vue.js</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Estado</th>
+          <th>Autor</th>
+          <th>Fecha</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Aprobado</td>
+          <td>Fernando Valdez</td>
+          <td>12/11/2024</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="contexto">Contexto</h2>
+<p>Estamos construyendo una aplicación web interactiva y necesitamos seleccionar un framework JavaScript para el frontend.</p>
+<h2 id="decisión-tomada">Decisión tomada</h2>
+<p>Utilizaremos <strong>React</strong> para desarrollar el frontend de la aplicación.</p>
+<h2 id="justificación">Justificación</h2>
+<ul>
+<li><strong>Comunidad y soporte:</strong> React tiene una comunidad más grande y recursos de soporte, lo que facilita resolver problemas y encontrar soluciones.</li>
+<li><strong>Integración con el ecosistema:</strong> Ya usamos otras librerías que funcionan bien con React, como react-hook-form y NativeWind.</li>
+<li><strong>Facilidad de contratación:</strong> Es más fácil encontrar desarrolladores con experiencia en React.</li>
+</ul>
+<h2 id="alternativas-consideradas">Alternativas consideradas</h2>
+<ul>
+<li><strong>Vue.js:</strong> Menor curva de aprendizaje, pero menos usado en nuestra empresa.</li>
+<li><strong>Angular:</strong> Complejo y no se ajusta bien a la arquitectura de nuestro proyecto.</li>
+</ul>
+<h2 id="consecuencias">Consecuencias</h2>
+<ul>
+<li>Tendremos más facilidad para integrar componentes existentes y bibliotecas de terceros.</li>
+<li>La curva de aprendizaje puede ser un poco mayor para los nuevos desarrolladores que no conocen React.</li>
+</ul>
+<p><em>Referencias y artículos relacionados</em></p>
+<ul>
+<li><a href="https://github.com/joelparkerhenderson/architecture-decision-record">ADR en GitHub y Plantillas</a></li>
+</ul>
+<hr>
+<h1 id="liquibase">Liquibase</h1>
+<p><a href="http://www.liquibase.org/">Liquibase</a> funciona como una especie de control de versiones para administrar y aplicar cambios en el modelo de base de datos desde línea de comandos. Es una librería hecha con Java y de código abierto.</p>
+<p>En mi experiencia he utilizado archivos basados en texto (cuyo formato puede ser SQL, XML, JSON y YAML) llamados <a href="https://docs.liquibase.com/concepts/changelogs/home.html">changelogs</a> para enumerar los cambios de la base de datos en orden secuencial.</p>
+<p><em>Ejemplo</em></p>
+<p>Archivo llamado: <code>db.changelog_001.1.yml</code></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">databaseChangeLog</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">changeSet</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">id</span>: <span style="color:#ae81ff">1_create-user-table</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">author</span>: <span style="color:#ae81ff">fervaldezjr11@gmail.com</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">changes</span>:
+</span></span><span style="display:flex;"><span>        - <span style="color:#f92672">createTable</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">tableName</span>: <span style="color:#ae81ff">user</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#f92672">columns</span>:
+</span></span><span style="display:flex;"><span>              - <span style="color:#f92672">column</span>:
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">name</span>: <span style="color:#ae81ff">id</span>
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">type</span>: <span style="color:#ae81ff">int</span>
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">autoIncrement</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">constraints</span>:
+</span></span><span style="display:flex;"><span>                    <span style="color:#f92672">primaryKey</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>              - <span style="color:#f92672">column</span>:
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">name</span>: <span style="color:#ae81ff">username</span>
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">type</span>: <span style="color:#ae81ff">varchar(50)</span>
+</span></span><span style="display:flex;"><span>                  <span style="color:#f92672">constraints</span>:
+</span></span><span style="display:flex;"><span>                    <span style="color:#f92672">nullable</span>: <span style="color:#66d9ef">false</span>
+</span></span></code></pre></div><p><em>Referencias y artículos relacionados</em></p>
+<ul>
+<li><a href="https://www.liquibase.com/how-liquibase-works">¿Cómo funciona liquibase?</a></li>
+<li><a href="https://docs.liquibase.com/concepts/introduction-to-liquibase.html">Introducción a Liquibase</a></li>
+</ul>
+<hr>
+<h1 id="atajos-utiles-de-bash">Atajos Utiles de Bash</h1>
+<table>
+  <thead>
+      <tr>
+          <th>Atajos</th>
+          <th>Descripcción</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>ctrl</code> + <code>A</code></td>
+          <td>Ir al inicio de la línea.</td>
+      </tr>
+      <tr>
+          <td><code>ctrl</code> + <code>E</code></td>
+          <td>Ir al final de la línea.</td>
+      </tr>
+      <tr>
+          <td><code>alt</code> + <code>&lt;-</code> o <code>-&gt;</code></td>
+          <td>Moverse por cada palabra.</td>
+      </tr>
+      <tr>
+          <td><code>ctrl</code> + <code>U</code></td>
+          <td>Borrar todo antes del cursor.</td>
+      </tr>
+      <tr>
+          <td><code>ctrl</code> + <code>K</code></td>
+          <td>Borrar todo después del cursor.</td>
+      </tr>
+      <tr>
+          <td><code>tab</code></td>
+          <td>Autocompletado.</td>
+      </tr>
+      <tr>
+          <td><code>!</code> + ./</td>
+          <td>Buscar en el historial comandos utilizados.</td>
+      </tr>
+  </tbody>
+</table>
+
+
+        
+    </div>
+
+    
+    <div id="giscus-comments" style="max-width: 1080px; margin: 0 auto;">
+      <script src="https://giscus.app/client.js"
+              data-repo="fervaldezjr/fervaldezjrblog"
+              data-repo-id="R_kgDONEYMuA"
+              data-category="General"
+              data-category-id="DIC_kwDONEYMuM4Cj0kF"
+              data-mapping="pathname"
+              data-strict="0"
+              data-reactions-enabled="1"
+              data-emit-metadata="0"
+              data-input-position="top"
+              data-theme="light"
+              data-lang="es"
+              data-loading="lazy"
+              crossorigin="anonymous"
+              async>
+      </script>
+    </div>
+  </body>
+</html>

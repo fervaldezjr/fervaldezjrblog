@@ -6,14 +6,14 @@
     <description>Recent content on 🧑🏽‍💻 fervaldezjr&#39;s blog</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 28 Oct 2024 15:14:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 18:15:00 +0100</lastBuildDate>
     <atom:link href="https://fervaldezjr.github.io/fervaldezjrblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guía Definitiva: Cómo Crear y Publicar tu Blog con Hugo en GitHub Pages (Paso a Paso)</title>
-      <link>https://fervaldezjr.github.io/fervaldezjrblog/posts/crear-y-desplegar-un-hugo-blog-en-github-pages/</link>
-      <pubDate>Mon, 28 Oct 2024 15:14:08 +0100</pubDate>
-      <guid>https://fervaldezjr.github.io/fervaldezjrblog/posts/crear-y-desplegar-un-hugo-blog-en-github-pages/</guid>
-      <description>&lt;p&gt;En esta guía te voy a mostrar, paso a paso, cómo crear tu propio blog usando &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, una herramienta genial para generar sitios estáticos. Además, vas a aprender a configurarlo para que se despliegue automáticamente en &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, de forma simple y sin vueltas. ¡Llevá tu blog a la web en cuestión de minutos!&lt;/p&gt;</description>
+      <title>Definiciones Técnicas del día a día</title>
+      <link>https://fervaldezjr.github.io/fervaldezjrblog/posts/algunas-definiciones-tecnicas/</link>
+      <pubDate>Tue, 12 Nov 2024 18:15:00 +0100</pubDate>
+      <guid>https://fervaldezjr.github.io/fervaldezjrblog/posts/algunas-definiciones-tecnicas/</guid>
+      <description>&lt;p&gt;Algunas notas sueltas que fuí encontrando en viejas libretas sobre pequeñas dudas, conceptos, definiciones y comentarios que me ayudaron mucho en mi camino como desarrollador.&lt;/p&gt;&#xA;&lt;p&gt;Como el aprendizaje es continuo espero que este artículo siga creciendo, también es bienvenido cualquier comentario para complementar dichas notas o crear un documento especifico.&lt;/p&gt;</description>
     </item>
     <item>
       <title>¡Hola, me alegra que estes por acá!</title>
